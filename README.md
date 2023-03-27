@@ -1,14 +1,15 @@
-### Hi there 👋 I'm Ollie
+### Hi 👋
 
 I am a data analyst turned solidity developer with a passion for blockchain and a hunger for new knowledge and experiences. 
 
 <br/>
 
 💬 <b>About me:</b>
-- 🔭 Currently working as a backend engineer for a blockchain startup
-- 📊 Professional experience in the data industry
+- 🔭 Brief experience as sole backend engineer for a small blockchain startup
+- 🔮 Warden on Code4rena with multiple high/medium findings
+- 📊 Professional experience as a data scientist in the online gambling industry
 - 👨‍🎓 Bachelors degree in Data Science
-- ⚡ In my spare time I enjoy working on side projects or learning new languages (currenly I'm learning Rust for Solana 🌱)
+- ⚡ In my spare time I enjoy working on side projects and playing sports
 
 <br/>
 
